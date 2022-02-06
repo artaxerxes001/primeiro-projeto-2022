@@ -91,7 +91,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <h3><a name="autor">🦸 Autor</a></h3>
 #### Artaxerxes Nazareno
-<img src="src/main/resources/imagens/eu.jpg" width="200"/>
+
+<img src="src/main/resources/imagens/eu.jpg" width="190"/>
 
 ##### Sigam me:
 [![Twitter Badge](https://img.shields.io/badge/-@artaxerxes0001-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/Artaxerxes0001)  [![Linkedin Badge](https://img.shields.io/badge/-Artaxerxes_Nazareno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artaxerxes-nazare/)](https://www.linkedin.com/in/artaxerxes-nazare/) [![Gmail Badge](https://img.shields.io/badge/-artaxerxesnazare@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artaxerxesnazare@gmail.comm)](mailto:artaxerxesnazare@gmail.com)
