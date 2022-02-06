@@ -90,7 +90,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <h3><a name="autor">🦸 Autor</a></h3>
+
 #### Artaxerxes Nazareno
+
 
 <img src="src/main/resources/imagens/eu.jpg" width="190"/>
 
