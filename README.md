@@ -43,7 +43,7 @@ Foi desenvolvido com base nos tutorias de Spring Boot do canal<a href="https://w
 
 <h3><a name="demonstracao"> Demonstração </a></h3>
 
-gif![]()
+![postman requests](src/main/resources/imagens/requests.gif)
 
 ---
 
@@ -74,7 +74,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
    ```
 4. Se tudo correu bem até aqui basta rodar o projeto 
 5. Ir para o postman e importar o arquivo  '**project resquests in Postman.postman_collection.json**'. Que esta contido no diretorio raiz do projeto.
-           gif![]()
+          ![gif ilustrando importação de arquvo de requisição no postman](src/main/resources/imagens/importar requests.gif)
 6. Agora pode testar todas as requisições e ver as respostas que a API dá.
 
 ---
@@ -86,7 +86,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [H2](https://www.h2database.com/)
 
 ---
-
 
 <h3><a name="autor">🦸 Autor</a></h3>
 
