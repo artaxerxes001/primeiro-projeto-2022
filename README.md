@@ -15,8 +15,7 @@
  <a href="#features">Features</a> •
  <a href="#demonstracao">Demonstração</a> •
  <a href="#pre-requisitos">Pré-Requisitos</a> •
- <a href="#back-end">Rodando o Back End</a> •
- <a href="#front-end">Rodando o Front end</a> •
+ <a href="#back-end">Rodando o Projeto</a> •
   <a href="#tecnologias">Tecnologias e Ferramentas</a> •
  <a href="#autor">Autor</a> 
 
@@ -59,7 +58,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ---
 
-<h3><a name="back-end"> Rodando o Back End </a></h3>
+<h3><a name="back-end"> Rodando o Projeto</a></h3>
 
 
 1. Clone esse repositorio
